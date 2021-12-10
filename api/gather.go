@@ -10,7 +10,7 @@ import (
 
 	"github.com/julienschmidt/httprouter"
 	apirouter "github.com/mrz1836/go-api-router"
-	"github.com/rohenaz/alchem-server/database"
+	"github.com/rohenaz/alchema-server/database"
 	"go.mongodb.org/mongo-driver/bson"
 )
 
